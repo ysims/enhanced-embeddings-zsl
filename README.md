@@ -47,7 +47,7 @@ Often, the input to the word embedding model is the class label. This work consi
 | chirping, birds    | chirping, birds, animal, call, song, tweet, chirp, twitter, trill, warble, chatter, cheep       |
 | water, drops       | water, drops, splash, droplet, drip                                                             |
 | wind               | wind, nature, gust, gale, blow, breeze, howl                                                    |
-| pouring, water     | pouring, water, slosh, gargle, splash, splosh, sploosh                                          |
+| pouring, water     | pouring, water, slosh, gargle, splash, splosh                                                   |
 | toilet, flush      | toilet, flush, water, flow, wash                                                                |
 | thunderstorm       | thunderstorm, thunder, storm, nature, lightning                                                 |
 | crying, baby       | crying, baby, cry, human, whine, infant, child, wail, bawl, sob, scream, call                   |
