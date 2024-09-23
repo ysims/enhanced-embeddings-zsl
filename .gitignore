@@ -1,0 +1,9 @@
+# Dataset
+Embeddings/ESC-50
+Embeddings/word2vec.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.~lock
