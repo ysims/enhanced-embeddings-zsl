@@ -1,5 +1,26 @@
 # Enhanced Embeddings in Zero-Shot Learning for Environmental Audio
 
+This repository contains supplimentary information and code for the paper ["Enhanced Embeddings in Zero-Shot Learning for Environmental Audio", ICASSP 2023](https://ieeexplore.ieee.org/document/10096134).
+
+The contributions of this work are
+
+- Evaluation of adding linguistic devices, such as broadening words, synonyms and onomatopoeia, to word embeddings for zero-shot learning with ESC-50, with an overall top-1 accuracy improvement with linguistic devices.
+- Evaluation of different audio network architectures to retrieve the audio embeddings for zero-shot learning with ESC-50, where a modified YAMNet architecture results in higher top-1 accuracies for zero-shot learning with ESC-50 compared with VGGish.
+- A new state-of-the-art result for zero-shot learning using ESC-50.
+
+```
+@inproceedings{Sims2023,
+  author={Sims, Ysobel and Mendes, Alexandre and Chalup, Stephan},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Enhanced Embeddings in Zero-Shot Learning for Environmental Audio}, 
+  year={2023},
+  pages={1-5},
+}
+```
+
+See https://github.com/cetinsamet/attribute-label-embedding for origin of the compatibility model code. Original paper for ALE is ["Label-Embedding for Attribute-Based Classification", CVPR 2013](https://ieeexplore.ieee.org/document/6618955). Original paper for ESC-50 zero-shot learning with ALE is ["Zero-Shot Audio Classification Via Semantic Embeddings", IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/document/9376628).
+
+
 ## Partition Strategies
 
 Two partition strategies are used for [ESC-50](https://github.com/karolpiczak/ESC-50), from [Zero-Shot Audio Classification via Semantic Embeddings](https://arxiv.org/abs/2011.12133).
