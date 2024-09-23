@@ -13,8 +13,7 @@ The contributions of this work are
   author={Sims, Ysobel and Mendes, Alexandre and Chalup, Stephan},
   booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Enhanced Embeddings in Zero-Shot Learning for Environmental Audio}, 
-  year={2023},
-  pages={1-5},
+  year={2023}
 }
 ```
 
